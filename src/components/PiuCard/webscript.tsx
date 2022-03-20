@@ -28,7 +28,6 @@ function determineTimeElapsed(created_at: any) {
     const timeElapsed_str = timeElapsed_minutes.toString() + "m";
     return timeElapsed_str;
   }
-
 }
 
 export default determineTimeElapsed;
