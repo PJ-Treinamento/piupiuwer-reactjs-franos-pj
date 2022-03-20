@@ -1,4 +1,4 @@
-import defaultProfilePicSrc from "../assets/defaultprofilepic.svg"
+import defaultProfilePicSrc from "../assets/defaultprofilepic.svg";
 
 // Infos do usuario a ser logado
 const UserInfo = {
@@ -8,7 +8,7 @@ const UserInfo = {
   photo: defaultProfilePicSrc,
   about: "Apenas a matéria vida era tão fina.",
   username: "franos",
-  password: "Ntec@2022"
-}
+  password: "Ntec@2022",
+};
 
 export default UserInfo;
